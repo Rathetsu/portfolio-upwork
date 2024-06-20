@@ -94,10 +94,10 @@ if selected == "Intro":
                     caption=DEVELOPER_EXPERIENCE_IMAGE[index][1],
                 )
 
-        st.divider()
-        st.subheader(DEVELOPER_VIDEO_INTRODUCTION)
-        for index, video in enumerate(DEVELOPER_EXPERIENCE_VIDEO):
-            st.video(DEVELOPER_EXPERIENCE_VIDEO[index][-1])
+        # st.divider()
+        # st.subheader(DEVELOPER_VIDEO_INTRODUCTION)
+        # for index, video in enumerate(DEVELOPER_EXPERIENCE_VIDEO):
+        #     st.video(DEVELOPER_EXPERIENCE_VIDEO[index][-1])
 
         # import pandas as pd
         # import numpy as np
