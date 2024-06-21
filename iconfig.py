@@ -3,13 +3,13 @@ DEVELOPER_PASSION = "I design and code beautifully simple things, and I love wha
 DEVELOPER_NAME = "Ahmed Ezzat"
 DEVELOPER_ADDRESS = "Egypt"
 DEVELOPER_GREETINGS = f"Hi, I’m {DEVELOPER_NAME}. Nice to meet you."
-DEVELOPER_INTRODUCTION = "Since beginning my journey as a freelance designer 7 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops."
+DEVELOPER_INTRODUCTION = "Since beginning my journey as a full stack developer 7 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops."
 DEVELOPER_SKILLS = [
     [
         "Full Stack Developer",
         "I like to code things from scratch, and enjoy bringing ideas to life in the browser.",
         "Languages I speak:",
-        "javascript, HTML, CSS, Sass, Git, PHP",
+        "javascript, Typescript, HTML, CSS, Sass, Git, PHP",
         "Dev Tools:",
         [
             "Laravel",
