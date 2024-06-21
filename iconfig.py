@@ -40,6 +40,8 @@ DEVELOPER_SKILLS = [
 DEVELOPER_EXPERIENCE_TITLE = "My Recent Work"
 DEVELOPER_VIDEO_INTRODUCTION = "Video Introductions"
 DEVELOPER_EXPERIENCE_IMAGE = [
+    ["assets/images/glotanning.png", "Glotanning", "https://glotanning.com"],
+    ["assets/images/kayros.png", "Kayros", "https://www.kayros.world"],
     ["assets/images/Selenium.jpg", "Selenium", ""],
     ["assets/images/Tirerobot.jpg", "Tirerobot.com", "https://tirerobot.com"],
 ]
